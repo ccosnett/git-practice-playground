@@ -10,3 +10,5 @@ A small sandbox for practicing branches, rebases, merges, and commits.
 4. Resolve a conflict, continue the rebase, and compare the history with `git log --oneline --graph --all`.
 
 Nothing here is important. Break it, reset it, and start over.
+
+- Practice a second commit on main.
